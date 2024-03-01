@@ -1,4 +1,4 @@
-### Olá! Meu nome é Vinícius Cerqueira, estudante de programação(ainda...)!
+### Olá! Meu nome é Vinícius Cerqueira!
 
 ##
 
