@@ -1,4 +1,4 @@
-### Olá! Meu nome é Vinícius Cerqueira e estou em busca de ser um Cientista de Dados!
+### Olá! Meu nome é Vinícius Cerqueira e estou em busca de ser um Analista de Dados!
 
 ##
 
